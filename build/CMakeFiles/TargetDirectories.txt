@@ -1,0 +1,4 @@
+/home/liuyz/桌面/仿射变换/build/CMakeFiles/edit_cache.dir
+/home/liuyz/桌面/仿射变换/build/CMakeFiles/rebuild_cache.dir
+/home/liuyz/桌面/仿射变换/build/CMakeFiles/fangshe.dir
+/home/liuyz/桌面/仿射变换/build/CMakeFiles/libLZY.dir
